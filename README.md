@@ -1,6 +1,5 @@
 # Hello there, I'm Michał 👋👨‍💻
 > <em>If you are already here, do not hesitate to check my repository 😁</em>
-<br>
 
 ## About me:
 I am a third-year Management and Artificial Intelligence student and a first-year Computer Science student.
