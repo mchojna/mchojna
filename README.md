@@ -1,5 +1,3 @@
-<!--
-
 # Hello there, I'm Michał 👋👨‍💻
 > <em>If you are already here, do not hesitate to check my repository 😁</em>
 <br>
@@ -31,5 +29,5 @@ Looking ahead, I plan to specialize in machine learning and deep learning, with 
 
 > <em>Have a great day 😁</em>
 
-
+<!--
 -->
